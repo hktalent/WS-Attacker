@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<WS-Attacker-Config>
+    <createOptionalElements>true</createOptionalElements>
+    <httpConfig>
+        <proxyHost></proxyHost>
+        <proxyPort></proxyPort>
+    </httpConfig>
+    <lastWsdl>http://localhost:8080/axis2/services/Version?wsdl</lastWsdl>
+</WS-Attacker-Config>

@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: xiatian
+Class-Path: lib/soapui-maven-plugin-5.1.3.jar lib/soapui-5.1.3.jar lib
+ /xbean-fixed-2.4.0.jar lib/xbean_xpath-2.4.0.jar lib/xmlpublic-2.4.0.
+ jar lib/jsr173_api-1.0.jar lib/guava-14.0.jar lib/commons-collections
+ -3.2.1.jar lib/commons-lang-2.4.jar lib/commons-io-2.4.jar lib/common
+ s-logging-1.1.1.jar lib/analytics-core-5.1.3-os.jar lib/out-app-analy
+ tics-provider-5.1.3-os.jar lib/rsyntaxtextarea-2.5.0.jar lib/jetty-6.
+ 1.26.jar lib/jetty-util-6.1.26.jar lib/servlet-api-2.5-20081211.jar l
+ ib/wss4j-1.6.16.jar lib/opensaml-2.5.1-1.jar lib/openws-1.4.2-1.jar l
+ ib/xmltooling-1.3.2-1.jar lib/joda-time-1.6.2.jar lib/htmlunit-2.7.ja
+ r lib/xercesImpl-2.9.1.jar lib/sac-1.3.jar lib/htmlunit-core-js-2.7.j
+ ar lib/httpclient-4.1.1.jar lib/httpmime-4.1.1.jar lib/httpclient-cac
+ he-4.1.1.jar lib/httpcore-4.1.1.jar lib/httpcore-nio-4.1.1.jar lib/or
+ g.apache.oltu.oauth2.client-0.31.jar lib/org.apache.oltu.oauth2.commo
+ n-0.31.jar lib/jettison-1.2.jar lib/slf4j-api-1.6.1.jar lib/org.apach
+ e.oltu.oauth2.httpclient4-0.31.jar lib/activation-1.1.jar lib/mail-1.
+ 4.jar lib/wsdl4j-1.6.2-fixed.jar lib/not-yet-commons-ssl-0.3.11.jar l
+ ib/commons-cli-1.2.jar lib/commons-beanutils-1.7.0.jar lib/json-lib-2
+ .2.2-jdk15.jar lib/ezmorph-1.0.5.jar lib/xom-1.1.jar lib/xmlParserAPI
+ s-2.6.2.jar lib/jaxen-1.1-beta-8.jar lib/dom4j-1.6.1.jar lib/jdom-1.0
+ .jar lib/swingx-soapui.jar lib/groovy-all-2.1.7.jar lib/js-1.7R2.jar 
+ lib/saxon-9.1.0.8j.jar lib/saxon-dom-9.1.0.8j.jar lib/xmlunit-1.2.jar
+  lib/xalan-2.7.1.jar lib/bcprov-jdk15-144.jar lib/jtidy-r872-jdk15.ja
+ r lib/jms-1.1.jar lib/hermes-1.14.jar lib/flex-messaging-common-1.0.j
+ ar lib/flex-messaging-core-1.0.jar lib/flex-messaging-opt-1.0.jar lib
+ /flex-messaging-proxy-1.0.jar lib/flex-messaging-remoting-1.0.jar lib
+ /xstream-1.3.1.jar lib/cssparser-0.9.5.jar lib/nekohtml-1.9.14.jar li
+ b/jcifs-1.2.9.jar lib/l2fprod-common-directorychooser-7.3.jar lib/l2f
+ prod-common-fontchooser-7.3.jar lib/xmlsec-1.4.5.jar lib/xml-apis-2.9
+ .1.jar lib/serializer-2.7.1.jar lib/xml-apis-1.3.04.jar lib/cajo-1.14
+ 2.jar lib/ws-commons-util-1.0.2.jar lib/proxy-vole-20131209.jar lib/j
+ son-path-0.9.1.jar lib/json-smart-1.2.jar lib/commons-httpclient-3.1.
+ jar lib/i4jruntime-5.1.14.jar lib/lablib-checkboxtree-3.3.jar lib/bet
+ terbeansbinding-swingbinding-1.3.0.jar lib/betterbeansbinding-core-1.
+ 3.0.jar lib/betterbeansbinding-el-1.3.0.jar lib/jsr305-1.3.7.jar lib/
+ SoapHttpClient-1.9-SNAPSHOT.jar lib/XML_Utilities_Library-1.9-SNAPSHO
+ T.jar lib/log4j-1.2.17.jar lib/maven-java-formatter-plugin-0.4.jar li
+ b/maven-plugin-api-2.0.jar lib/org.eclipse.jdt.core-3.8.1.v20120125-1
+ 544.jar lib/org.eclipse.text-3.5.100.v20110505-0800.jar lib/org.eclip
+ se.core.runtime-3.7.0.v20110110.jar lib/org.eclipse.core.resources-3.
+ 7.100.v20110510-0712.jar lib/org.eclipse.equinox.common-3.6.0.v201105
+ 23.jar lib/commons-digester-2.0.jar lib/commons-codec-1.4.jar lib/ple
+ xus-io-1.0.1.jar lib/plexus-resources-1.0-alpha-7.jar lib/plexus-cont
+ ainer-default-1.0-alpha-9-stable-1.jar lib/classworlds-1.1-alpha-2.ja
+ r lib/plexus-utils-2.0.5.jar lib/junit-4.12.jar lib/hamcrest-core-1.3
+ .jar lib/commons-io7.1.0.jar
+Created-By: Apache Maven 3.5.3
+Build-Jdk: 1.8.0_60
+Main-Class: wsattacker.MainGUI
+

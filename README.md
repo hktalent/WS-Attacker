@@ -3,3 +3,9 @@ WS-Attacker is a modular framework for web services penetration testing. It is d
 
 # dependent
 build from https://github.com/RUB-NDS/WS-Attacker
+
+# run
+```
+chmod 555 run.bat
+./run.bat
+```
