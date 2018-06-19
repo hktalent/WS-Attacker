@@ -9,3 +9,6 @@ build from https://github.com/RUB-NDS/WS-Attacker
 chmod 555 run.bat
 ./run.bat
 ```
+
+# sample
+![exploit](https://github.com/hktalent/WS-Attacker/blob/master/sample.jpg?raw=true)
