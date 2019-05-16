@@ -5,5 +5,5 @@
         <proxyHost></proxyHost>
         <proxyPort></proxyPort>
     </httpConfig>
-    <lastWsdl>http://localhost:8080/axis2/services/Version?wsdl</lastWsdl>
+    <lastWsdl>http://jyb.hrss.tj.gov.cn:7081/tjsyapp/services/APP_CALL_YH?WSDL</lastWsdl>
 </WS-Attacker-Config>
